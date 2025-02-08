@@ -2,6 +2,8 @@
 """
 Created on Sat Feb  8 17:40:14 2025
 
+Creating an Artificial Neural Network model using the MNIST dataset.
+
 @author: Buse
 """
 # %% Dataset Preparation and Preprocessing
