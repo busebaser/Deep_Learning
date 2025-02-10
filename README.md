@@ -10,3 +10,5 @@ lstm.ipynb -> Model created using LSTM with the 20 Newsgroups dataset from the S
 rbf.ipynb -> Creating an ANN model with a Radial Basis Function layer using the Iris Dataset.
 
 rnn.ipynb -> Creating RNN model using Keras IMDB dataset
+
+autoencoders -> Image compression and reconstruction with autoencoders model using Fashion MNIST dataset.
