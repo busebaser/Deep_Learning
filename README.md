@@ -12,3 +12,5 @@ rbf.ipynb -> Creating an ANN model with a Radial Basis Function layer using the 
 rnn.ipynb -> Creating RNN model using Keras IMDB dataset
 
 autoencoders -> Image compression and reconstruction with autoencoders model using Fashion MNIST dataset.
+
+transfer_learning.ipynb -> Classifying drug and vitamin types using MobileNetV2 model with Transfer Learning.
