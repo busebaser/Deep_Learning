@@ -16,6 +16,8 @@ This repository contains various neural networks and models that I created durin
   autoencoders -> *Image compression and reconstruction with autoencoders model using Fashion MNIST dataset.*
   
   transfer_learning.ipynb -> *Classifying drug and vitamin types using MobileNetV2 model with Transfer Learning.*
+
+  dql_agent.ipynb -> *Training an agent in CartPole-v1 environment with Deep Reinforcement Learning Algorithm using Keras*
   
 
 
